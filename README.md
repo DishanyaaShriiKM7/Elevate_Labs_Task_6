@@ -36,9 +36,9 @@ The aim is to identify best practices for creating secure passwords and understa
 --------------------------------------------------
 | 🔑 Password        | 📈 Cracking Time| 💬 Feedback |
 |--------------------|-------------|-------------|
-| `ringarose`         | 12.48 Seconds –	| – Very Weak – |
-| `ea#$fe	`         | – 2 days    	–	| – Medium – |
-| `dea#$Mafi()496snu0=-`         |  95 M T years – | – Very Strong – |
+| `ringarose`         | 12.48 Seconds |  Very Weak  |
+| `ea#$fe	`         |  2 days    	|  Medium  |
+| `dea#$Mafi()496snu0=-`         |  95 M T years  |  Very Strong  |
 
 ## 💡 Key Observations & Tips Learned  
 
